@@ -4,4 +4,4 @@
   <img alt="Shows the BM Scripts banner" src="https://i.ibb.co/xSdtsbJb/BMScripts-User-Card-Background.png">
 </picture>
 
-# Link to Website: [HERE](https://bmscripts.github.io/bm-scripts-website/)
+# Link to Website: [HERE](https://bmscripts.github.io/bmscripts-website/)
